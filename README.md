@@ -1,6 +1,6 @@
 # cat-grep
 
-## Implememntation of basic Bash utilities for working with C programming language texts: 'cat' and 'grep' 
+## Implementation of basic Bash utilities for working with C programming language texts: 'cat' and 'grep' 
 
 ### cat Usage
 
